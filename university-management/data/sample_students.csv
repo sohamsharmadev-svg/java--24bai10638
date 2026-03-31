@@ -1,0 +1,4 @@
+id,regNo,fullName,email,dateOfBirth
+1,REG001,Alice Johnson,alice@university.edu,2002-05-15
+2,REG002,Bob Smith,bob@university.edu,2001-11-23
+3,REG003,Carol White,carol@university.edu,2003-01-08

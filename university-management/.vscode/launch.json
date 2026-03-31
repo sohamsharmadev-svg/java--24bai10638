@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run University Management System",
+            "request": "launch",
+            "mainClass": "java_project.MasterCLI",
+            "projectName": "university-management"
+        }
+    ]
+}
